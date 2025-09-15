@@ -1,4 +1,4 @@
-# analysis_Navaantix
+# analysis_Navaantrix
 This repo contains the anlysis part of predictive and descrptive analysis:
 
 1.Data Cleaning & Preprocessing
